@@ -1,5 +1,5 @@
 {
-  "name": "typeapi",
+  "name": "@typeapi/typeapi",
   "version": "0.0.1",
   "description": "TypeScript for OpenAPI middleware class",
   "main": "index.js",
