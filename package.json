@@ -1,0 +1,25 @@
+{
+  "name": "typeapi",
+  "version": "0.0.1",
+  "description": "TypeScript for OpenAPI middleware class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typeapi/TypeAPI.git"
+  },
+  "keywords": [
+    "typescript",
+    "openapi",
+    "middleware",
+    "swagger"
+  ],
+  "author": "gkctou@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/typeapi/TypeAPI/issues"
+  },
+  "homepage": "https://github.com/typeapi/TypeAPI#readme"
+}
